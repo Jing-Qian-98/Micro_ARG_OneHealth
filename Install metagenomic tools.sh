@@ -4,9 +4,7 @@ wget https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/Miniconda3-py39_23.
 
 
 bash Miniconda3-py39_23.5.2-0-Linux-x86_64.sh
-## Follow the prompts, press Enter as needed, accept the license agreement, and input 'yes' at the end. Confirm the installation directory and initialize conda with 'yes' as well.根据提示，依次输入回车，license agreement打开后不断输入回车，在最后输入yes；然后确认安装目录，可以直接输入回车，最后输入yes初始化conda。
-
-source ~/.bashrc
+## Follow the prompts, press Enter as needed, accept the license agreement, and input 'yes' at the end. Confirm the installation directory and initialize conda with 'yes' as well.
 
 which conda # Check if the installation was successful
 
